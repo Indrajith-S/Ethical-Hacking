@@ -1,0 +1,5 @@
+- Visit tcm-sec.com/kioptrix and download the OVA file
+- Once you're done downloading the file import it onto a workstation and power it on
+- Login to kioptrix using username: john and password: TwoCows2
+- To get the ip of your machine ping any server to know where the pakcets are being sent from to get an idea about who the sender is without ifconfig or ip a
+- perform arp-scan -l in order to discover all the active machines in your home network using another machine (kali supposedly)

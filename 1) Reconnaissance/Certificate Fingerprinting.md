@@ -1,0 +1,2 @@
+- Visit crt.sh and enter the domain name using the wildcard as the prefix:
+	- %.tesla.com for example and we can find the all the different domains related to tesla out there.

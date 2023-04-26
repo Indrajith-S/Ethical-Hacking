@@ -1,0 +1,3 @@
+- Use hunter.io to discover email addresses of a company.
+- Clearbit is also an amazing Chrome extension to fuzz out email addresses.
+- Use email-checker.net/validate to verify email addresses.

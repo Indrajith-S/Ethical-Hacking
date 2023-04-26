@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "75c9ace85e5d4cab",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c58ccf33b68e070",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17872d504f5e9855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4) Exploit Development/Downloading Materials.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d7203d24e443a5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4ee509efa43760f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67aafef96e37ca2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "2f8da0b561e67ab3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd730264dec4c9e2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6061bb66fa5bf8e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c5a1d9c388ee10f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bd41ac3926c2d86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4) Exploit Development/Downloading Materials.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c0ce09b4a4712ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4) Exploit Development/Downloading Materials.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e82649b87e4d8d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca7dc4b29ffb81e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4) Exploit Development/Downloading Materials.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "17872d504f5e9855",
+  "lastOpenFiles": [
+    "4) Exploit Development/Buffer Overflow Explained.md",
+    "4) Exploit Development/Downloading Materials.md",
+    "4) Exploit Development/Fuzzing.md",
+    "4) Exploit Development/Spiking.md",
+    "4) Exploit Development/Finding the Offset.md",
+    "4) Exploit Development/Finding the right Module.md",
+    "4) Exploit Development/Finding Bad Characters.md",
+    "4) Exploit Development/Overwriting the EIP.md",
+    "4) Exploit Development/Generating Shell Code and Gaining Root.md",
+    "3) Exploitation/Credential Stuffing and Password Spraying.md",
+    "3) Exploitation/Brute Force Attacks.md",
+    "3) Exploitation/Gaining Root with Metasploit.md",
+    "5) Capstone",
+    "Images/follow.PNG",
+    "Images/buffer overflow_pages-to-jpg-0002.jpg",
+    "Images/buffer overflow_pages-to-jpg-0001.jpg",
+    "4) Exploit Development/Buffer Overflow.zip",
+    "4) Exploit Development/Unconfirmed 54315.crdownload",
+    "4) Exploit Development",
+    "3) Exploitation/Shell.md",
+    "3) Exploitation/Staged vs Non-Staged Payloads.md",
+    "Images",
+    "nsstpl.PNG.md",
+    "Images/bindshell.PNG",
+    "3) Exploitation/nsstpl.PNG",
+    "Images/payload.PNG",
+    "Subnetting.md",
+    "Images/ncshell.PNG",
+    "2) Scanning and Enumeration/Scanning with Nessus.md",
+    "3) Exploitation",
+    "2) Scanning and Enumeration/Installing Kioptrix.md",
+    "Assessment Notes (Kioptrix 192.168.146.129)/Scan Results.md",
+    "1) Reconnaissance/Gathering Breached Credentials.md",
+    "1) Reconnaissance/Discovering Email Addresses.md",
+    "1) Reconnaissance/Identifying our Target.md",
+    "5 Stages of Ethical Hacking.md",
+    "Assessment Notes (Kioptrix 192.168.146.129)/Notes.md",
+    "Update Kali.md",
+    "Project/Building a Shoe Budget Tool",
+    "Project",
+    "Python",
+    "Bash Scripting"
+  ]
+}
